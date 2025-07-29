@@ -1,2 +1,2 @@
 # cybersec-linux-cmdlinehacker
-Cyber security command line hacker 
+Cyber security command line hacker tutorial course
