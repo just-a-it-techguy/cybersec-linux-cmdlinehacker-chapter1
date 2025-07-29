@@ -1,0 +1,48 @@
+# cybersec-linux-cmdlinehacker
+Cyber security command line hacker 
+
+Point of Order 
+This is my journey through the command line hacker course from https://www.dobrilab.com/command-line-hacker-landing-page-free-trial-30-day-47-usd-price-copy?utm_source=email&utm_campaign=seinfled
+this resource was sold by dobrilab . all credits rights interlectual properties [logos , fonts , videos created by the labs team ]  and Privlidges go to them i am useing this as a student resource . also great power comes great responsability  the exersizes are from them and the content 
+is theirs this is my interpreatation so do not just blindly copy  make sure that you under stand you are following a student and should only  perform the items discussed in a backed up environment 
+on physical hard ware or virtualised machines or containers with  snap shots back up and disarster recover plans in place  to roll back any damages. 
+As iam not responsable in any way shape or form For damages done to any system / systems or hardware  you copy at your own risk. as iam an aspireing cyber security studnet and tech with mild dyslexica 
+so spelling and code errors come for free . by reproduceing anything form this repository or forking and commiting code or changeing code 
+running anything you acknowledge that you hold me perminatly legaly harmless as i have stated again that this is a Student / Apsiring tech learning to code 
+
+
+Legal Items 
+TLDR: 
+this is a git repo from a command line hacker course form dobril labs  , written by a student this is intended to show progress itterations of code and learning and commitment to Cybersecurity 
+and the following principals  and theroy presented , Not to be used as Commercial Solution , No Warnty of any kind Granted or implied 
+Again no WARNTY  of Any Kind 
+
+I am not out to cause harm from terms and skill learnt in this course as such all itmes in this are strictly exersizes in traning notes and demonstartitons of the 
+tools and how to use not a endorsement to try this on systems you dont own . the Sytems and Ipranges are test networks that i own and as such are alllowed for me to test and present this journey.
+
+Data backup and Sytem Proection 
+this is form a course on commanfd line hacking for linux it should be noted that items in this course can lead to damage or reduced or loss of system functions 
+where possible i will be running items in Virtual box / Proxmox  and as such the systems are on network and have been snapshotted at install time and then at various times through the course 
+please rember that back up plans re required by you , live systems shold not be tested on please rember to test in lab then bring to production if this works for you . this is not intended as a step by step guid this is one guys it journey  watching course / reading / following up in youtube / other videos then 
+working it out and then building on the basics .
+
+AI and useage in this document 
+where possible i will show prompts and LLM" { large language models }  ai used and how , this also shows that iam not useeing LLMS out side of their intended allowed usage 
+it further shows clarity. of note any and all trademarks and patents for LLMS includeing but not limted to 
+code jemma - google gemma LLM
+Chat gpt  - open AI Chat gpt 
+Co pilot - Microsoft 
+
+Errors / Mistakes 
+Errors and mistakes happen I ma Dyslexic and while i will do my best to follow instructions 
+code can and will happen while i will take all efforts to make sure i admit errors as i am a human and mistakes happen  please dont roast me in the comments 
+
+
+
+
+
+
+
+
+
+please note the structure will be  chapter read me then a explanation page 
