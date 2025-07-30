@@ -1,7 +1,7 @@
 # cybersec-linux-cmdlinehacker
 Cyber security command line hacker tutorial course as done by ITSteve
 
-This is nmy Journy through the Linux fundamentals in command line 
+This is my Journy through the Linux fundamentals in command line 
 i am creating this to keep track of learning and have version control on notes etc 
 
 
@@ -24,10 +24,13 @@ please note the password  for default usage is
 <br>
 install docs on site : 
 https://www.kali.org/docs/virtualization/import-premade-virtualbox/
-> [!TIP]
->this was done useing windows virtual box host for the main pc
->the machine selected was the Virtualbox premade machine 
+
+><br>
 MY Install process 
+<br>
+>[!TIP]
+> this was run on windows host for virtual box
+> the machine is 3gb approx and ram is 2 gb 
 <br>
 got to kali web site go to get kali  then got to virtual machines 
 <br>
@@ -35,6 +38,16 @@ got to kali web site go to get kali  then got to virtual machines
 <br>
 select the kali vm for virtual box then click on th down load icon 
 <img width="287" height="247" alt="image" src="https://github.com/user-attachments/assets/b1f4eebf-0915-4234-a501-917e3abe0af1" />
+<br>
+I have Downloaded and in windows selcted to keep default location in wondows C:\downloads\
+then I have  then extracted useing winrar b ut 7zip is also acceptable , then i have clicked on the extracted file to launch the machine and create the applience in virtual box
+<img width="653" height="233" alt="image" src="https://github.com/user-attachments/assets/09a61722-73d6-40d6-9f91-d22efe779607" />
+ 
+> [!TIP]
+> The Blue is the manfest file this tells virtual box how big the machine is to be
+> <br>
+> the red is the actual file that runs as a Virtual Hdd 
+
 
 
 
