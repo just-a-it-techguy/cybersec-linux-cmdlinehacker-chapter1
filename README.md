@@ -47,8 +47,10 @@ then I have  then extracted useing winrar b ut 7zip is also acceptable , then i 
 > The Blue is the manfest file this tells virtual box how big the machine is to be
 > <br>
 > the red is the actual file that runs as a Virtual Hdd 
-
-
+<br>
+to launch the vm double click on the blue manafest file  this will spool up the box
+<br>
+this will have 
 
 
 
