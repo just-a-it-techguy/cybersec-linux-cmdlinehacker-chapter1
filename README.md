@@ -50,7 +50,18 @@ then I have  then extracted useing winrar b ut 7zip is also acceptable , then i 
 <br>
 to launch the vm double click on the blue manafest file  this will spool up the box
 <br>
-this will have 
+this will have
+
+> [!Caution]
+> the virtual machine will be created if the file is deleted then the virtual machine is Gone.
+> confirm that you have the files before deleting any thing.
+
+<br>
+This is the irtual Box default spaces with out any virtual machines in opperation 
+<img width="956" height="515" alt="image" src="https://github.com/user-attachments/assets/21354c4b-b51a-415f-b80d-ce01b801e800" />
+For this install iam Useing the Add Function as the kali image i downloaded is in .vbox file extention and if you try to import it does not see th files as it looks <br>
+for .ova virtual machine appliences , this can help 
+
 
 
 
