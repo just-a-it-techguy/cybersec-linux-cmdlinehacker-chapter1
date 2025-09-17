@@ -1,14 +1,14 @@
 # cybersecurity-linux-cmdlinehacker
 Cyber security command line hacker tutorial course as done by ITSteve
 
-This is my Journy through the Linux fundamentals in command line 
-I am creating this to keep track of learning and have version control on notes etc as i lean and add to my skill set as well as have a real port Folio 
+This is my Journey through the Linux fundamentals in command line 
+I am creating this to keep track of learning and have version control on notes etc as I learn and add to my skill set as well as have a real portfolio 
 
 
 ## Linux Pre face -Instalation 
 This is for the beggining to install kalli linux  and add to virtual box  as this provides a safe space to allow creation of virtual machines that are isolated form Windows / Mac /Linux  Host systems 
-this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system as well as protect the host form accidental Data loss , as well as allow filming of items and Exersizes 
-to be recoreded in Real time . To install the Kally Virtual box applicence 
+this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system as well as protect the host form accidental data loss , as well as allow filming of items and Exersizes 
+to be recoreded in Real time . To install the Kaliy Virtual box applicence 
 go to kali linux website 
 
 https://www.kali.org/get-kali/#kali-platforms
