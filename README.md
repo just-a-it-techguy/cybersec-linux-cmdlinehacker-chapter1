@@ -49,14 +49,16 @@ then I have  then extracted useing winrar but 7zip is also acceptable , then I h
 > [!TIP]
 > The Blue Icon  is the manfest file this tells virtual box how big the machine is to be what parmiters ar been used CPU , Ram , IO ,Hdd location 
 > <br>
-> the red is the actual file that runs as a Virtual Hdd volume that will carry out the machine opperations and act as the isolated system
+> the red is the actual file that runs as a Virtual Hdd volume that will carry out the machine opperations and act as the isolated system , all command will be processed and parsed and run 
 <br>
-to launch the vm double click on the blue manafest file  this will spool up the box
+to launch the vm double click on the blue manafest file  that was extracted form the kalivm down load zip file that was extracted . 
 <br>
-this will have
+this will Launch Virtual box as by default .vbox files are associated by the Host Machine  as open with virtual box  if you are running on another hyper visor or other mehtord results may vary and
+are out side the scope of this walk through. 
 
 > [!Caution]
-> the virtual machine will be created if the file is deleted then the virtual machine is Gone.
+> the virtual machine will be created by the blue manafest and will also have the red file associated with the Virtual machine in virtual box if the file is deleted then the virtual machine is Gone.<br>
+abd will delete the machine from the 
 > confirm that you have the files before deleting any thing.
 
 <br>
