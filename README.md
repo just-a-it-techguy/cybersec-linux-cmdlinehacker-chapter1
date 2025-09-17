@@ -1,19 +1,20 @@
-# cybersec-linux-cmdlinehacker
+# cybersecurity-linux-cmdlinehacker
 Cyber security command line hacker tutorial course as done by ITSteve
 
 This is my Journy through the Linux fundamentals in command line 
-i am creating this to keep track of learning and have version control on notes etc 
+I am creating this to keep track of learning and have version control on notes etc as i lean and add to my skill set as well as have a real port Folio 
 
 
 ## Linux Pre face -Instalation 
-this is for the beggining to install kalli linux  and add to virtual box  as this provides a safe space to allow creation of virtual machines 
-this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system 
+This is for the beggining to install kalli linux  and add to virtual box  as this provides a safe space to allow creation of virtual machines that are isolated form Windows / Mac /Linux  Host systems 
+this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system as well as protect the host form accidental Data loss , as well as allow filming of items and Exersizes 
+to be recoreded in Real time . To install the Kally Virtual box applicence 
 go to kali linux website 
 
 https://www.kali.org/get-kali/#kali-platforms
 
 #Virtual Machine   INSTALATION  - virtual box  option
-this option allows for Vm install via virtual box  the web site used was  to get the virtual machine was 
+This option allows for Vm install via virtual box  the web site used was  to get the virtual machine was 
 https://www.kali.org/get-kali/#kali-virtual-machines
 please note the password  for default usage is 
 
@@ -22,7 +23,9 @@ please note the password  for default usage is
 > username : **kali** <br>
 >password : **kali** 
 <br>
-install docs on site : 
+For best Practice Change the user name to a secure name as well as set stong passwords based on combinations of letters numbers special charters and avoid comman passwords and reuseing passwords
+to install i have followed the Guide posted on the following web site 
+
 https://www.kali.org/docs/virtualization/import-premade-virtualbox/
 
 ><br>
@@ -32,7 +35,7 @@ MY Install process
 > this was run on windows host for virtual box
 > the machine is 3gb approx and ram is 2 gb 
 <br>
-got to kali web site go to get kali  then got to virtual machines 
+go to kali web site go to get kali  then got to virtual machines 
 <br>
 <img width="1519" height="878" alt="image" src="https://github.com/user-attachments/assets/d6326186-f57a-4644-9729-2389625a8a26" />
 <br>
@@ -40,13 +43,13 @@ select the kali vm for virtual box then click on th down load icon
 <img width="287" height="247" alt="image" src="https://github.com/user-attachments/assets/b1f4eebf-0915-4234-a501-917e3abe0af1" />
 <br>
 I have Downloaded and in windows selcted to keep default location in wondows C:\downloads\
-then I have  then extracted useing winrar b ut 7zip is also acceptable , then i have clicked on the extracted file to launch the machine and create the applience in virtual box
+then I have  then extracted useing winrar but 7zip is also acceptable , then I have clicked on the extracted file to launch the machine and create the applience in virtual box
 <img width="653" height="233" alt="image" src="https://github.com/user-attachments/assets/09a61722-73d6-40d6-9f91-d22efe779607" />
  
 > [!TIP]
-> The Blue is the manfest file this tells virtual box how big the machine is to be
+> The Blue Icon  is the manfest file this tells virtual box how big the machine is to be what parmiters ar been used CPU , Ram , IO ,Hdd location 
 > <br>
-> the red is the actual file that runs as a Virtual Hdd 
+> the red is the actual file that runs as a Virtual Hdd volume that will carry out the machine opperations and act as the isolated system
 <br>
 to launch the vm double click on the blue manafest file  this will spool up the box
 <br>
