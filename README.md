@@ -7,7 +7,9 @@ I am creating this to keep track of learning and have version control on notes e
 
 ## Linux Pre face -Instalation 
 This is for the beggining to install kalli linux  and add to virtual box  as this provides a safe space to allow creation of virtual machines that are isolated form Windows / Mac /Linux  Host systems 
-this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system as well as protect the host form accidental data loss , as well as allow filming of items and Exersizes 
+this adds value as it allows course to be followed and also ensures that virtual pcs are in place to work with the system as well as protect the host form accidental data loss , as well as allow filming of items and Exersizes  please note this isnot a full install virual box form scratch  this is install kali vm in virtual box once you have it up and running  For transparency this will use Current version at time of recording . 
+<img width="485" height="383" alt="image" src="https://github.com/user-attachments/assets/c3fc2dc6-0e76-4da7-9099-cc6e7e9efc50" />
+
 to be recoreded in Real time . To install the Kaliy Virtual box applicence 
 go to kali linux website 
 
@@ -66,6 +68,32 @@ This is the irtual Box default spaces with out any virtual machines in opperatio
 <img width="956" height="515" alt="image" src="https://github.com/user-attachments/assets/21354c4b-b51a-415f-b80d-ce01b801e800" />
 For this install iam Useing the Add Function as the kali image i downloaded is in .vbox file extention and if you try to import it does not see th files as it looks <br>
 for .ova virtual machine appliences , this can help 
+
+> [!TIP]
+> This is a example of installing kali purple with out useing the premade virtual Machine  we will set the same parameters <br>
+> cpu: 4 core Hdd:3GB Ram:2096 MB <br>
+> User Kali <br>
+User pwd Kali :warning: do not use in live Production change password to someting better :warning:
+> Remember to save your changes regularly! 
+
+
+for this Machine ill call it Kali purp  made by useing the new virtual machine and filling out the Required fields <br>
+<img width="479" height="78" alt="image" src="https://github.com/user-attachments/assets/ca79bf38-4683-42db-b0c8-f14befbcd423" />
+To Create use the new virtual machine 
+<img width="249" height="64" alt="image" src="https://github.com/user-attachments/assets/79ab7878-9aff-4785-891c-7b6402d57420" />
+
+
+under the Name and Opperating System Section 
+<hr> </hr>
+Name: kali purp
+folder: (path to where Vm will be saved and launced From ) C:\Users\YourUserName\VirtualBox VMs <br>
+Iso: ( Iso file instalation media used to install ) C:\Users\YourUserName\Downloads\kali-linux-2025.2-installer-purple-amd64.iso <br>
+Type: (virtual Machine type to create ) Linux 
+<br> sub type : ( Virtual machine sub type of os family ) Ubuntu
+<br> Version: ( os version 64 bit or 32 bit ) Ubuntu 64 bit 
+<hr></hr>
+
+
 
 
 
