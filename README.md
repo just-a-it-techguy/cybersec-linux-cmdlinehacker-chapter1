@@ -79,12 +79,14 @@ User pwd Kali :warning: do not use in live Production change password to sometin
 
 for this Machine ill call it Kali purp  made by useing the new virtual machine and filling out the Required fields <br>
 <img width="479" height="78" alt="image" src="https://github.com/user-attachments/assets/ca79bf38-4683-42db-b0c8-f14befbcd423" />
-To Create use the new virtual machine 
-<img width="249" height="64" alt="image" src="https://github.com/user-attachments/assets/79ab7878-9aff-4785-891c-7b6402d57420" />
+To Create use the new virtual machine  option  this will launch the wizzard 
+<img width="597" height="411" alt="image" src="https://github.com/user-attachments/assets/c0557635-53d6-4d16-b22e-a47a02b125a0" />
 
 
-under the Name and Opperating System Section 
 <hr> </hr>
+<img width="1192" height="832" alt="image" src="https://github.com/user-attachments/assets/a45077d2-0c53-4c3d-b527-60d721cd4d2d" />
+please note the user name has been redacted in the White sections please make sure that the user name appears as your name that your loggin to the<br> 
+computer as .
 Name: kali purp
 folder: (path to where Vm will be saved and launced From ) C:\Users\YourUserName\VirtualBox VMs <br>
 Iso: ( Iso file instalation media used to install ) C:\Users\YourUserName\Downloads\kali-linux-2025.2-installer-purple-amd64.iso <br>
@@ -92,6 +94,30 @@ Type: (virtual Machine type to create ) Linux
 <br> sub type : ( Virtual machine sub type of os family ) Ubuntu
 <br> Version: ( os version 64 bit or 32 bit ) Ubuntu 64 bit 
 <hr></hr>
+This Section is the Unattened instalation <br> 
+advanced install techniques can be used to setup user name as well as product keys and also other user settings and guest opperating systems 
+< br> 
+leave this section un editied 
+<img width="1192" height="822" alt="image" src="https://github.com/user-attachments/assets/f77a9050-6f74-4274-bde0-4b35a459e217" />
+<hr> </hr>
+This section is for the hardware allocated  to the Vm 
+<br> 
+we will set the base mem (ram ) to 2048 mb by typein the box or dragging the slider  to install <br>
+we will set the Processor cores to 4 core , this can be done by the entering the value in the box or dragging the slider 
+<img width="599" height="414" alt="image" src="https://github.com/user-attachments/assets/112e9dd5-bc15-448f-a8cd-2de56071073c" />
+
+> [!CAUTION]
+> the slider bar will show green to red this is virtual box reading the host operating system and allowing you to provision items .
+> Please note if you go in to the red you can crash your system as the Guest will use more resoureces then the host pc can run  causein pc to lose data and require reset
+
+<hr> </hr> 
+This Final Section is for the Hard Disk the Sapce that the Virtual Machine will Use
+This allows you to select the type of hdd format  in this cae we are leaving the default Virtual box  , but this can be used forother formats like vmds that allow vmware access <Br> 
+we will leave the default to accept create the Virtual machin Hdd in default location , this can be changed to suite your prefrences <Br> 
+we will use the slider to select the 3 GB Required 
+
+
+
 
 
 
